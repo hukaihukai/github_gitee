@@ -12,5 +12,6 @@ package com.hk;
 public class GithubGitee {
     public static void main(String[] args) {
         System.out.println("cehsi 100001");
+        System.out.println("cehsi 100002");
     }
 }
