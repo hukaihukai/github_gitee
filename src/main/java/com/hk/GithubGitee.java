@@ -18,5 +18,6 @@ public class GithubGitee {
         System.out.println("cehsi 100002  hot-fix 001");
         System.out.println("cehsi 100002  hot-fix 002");
         System.out.println("cehsi pull");
+        System.out.println("cehsi gitee");
     }
 }
